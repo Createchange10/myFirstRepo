@@ -1,2 +1,3 @@
 "hello Ghana",
 "hey you"
+"summer is coming" 
